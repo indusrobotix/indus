@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Line Follower Robot",
+    "price": "PKR 7,500",
+    "description": "IR sensor based educational robot"
+  },
+  {
+    "name": "Bluetooth Robot",
+    "price": "PKR 12,000",
+    "description": "Mobile app controlled robot"
+  }
+]
